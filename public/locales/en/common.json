@@ -1,0 +1,77 @@
+{
+  "app": {
+    "name": "EduVistara",
+    "tagline": "Learn. Practice. Excel."
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "learning": "Learning",
+    "interview": "Interview",
+    "assessment": "Assessment",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "displayName": "Full Name",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "signInWithGoogle": "Sign in with Google",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUpHere": "Sign up here",
+    "loginHere": "Login here"
+  },
+  "language": {
+    "selectLanguage": "Select Your Language",
+    "english": "English",
+    "hindi": "Hindi",
+    "marathi": "Marathi",
+    "continue": "Continue"
+  },
+  "onboarding": {
+    "welcome": "Welcome to EduVistara!",
+    "letsGetStarted": "Let's get you started",
+    "educationLevel": "Education Level",
+    "careerGoals": "Career Goals",
+    "currentSkills": "Current Skills",
+    "selectEducation": "Select your education level",
+    "selectCareer": "What career are you interested in?",
+    "selectSkills": "What skills do you already have?",
+    "next": "Next",
+    "back": "Back",
+    "finish": "Finish",
+    "skip": "Skip"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "yourProgress": "Your Progress",
+    "continueLearn": "Continue Learning",
+    "upcomingAssessments": "Upcoming Assessments",
+    "recentActivity": "Recent Activity",
+    "learningStreak": "Learning Streak",
+    "days": "days"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "tryAgain": "Try Again"
+  }
+}

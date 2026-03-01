@@ -1,0 +1,103 @@
+========================================
+   EduVistara - How to Start
+========================================
+
+PROBLEM FIXED: Changed port from 3000 to 5173 in vite.config.ts
+
+========================================
+METHOD 1: Using PowerShell (RECOMMENDED)
+========================================
+
+1. Right-click on "START.ps1"
+2. Select "Run with PowerShell"
+3. Wait for "Local: http://localhost:5173" message
+4. Browser will open automatically
+5. If not, manually open: http://localhost:5173
+
+========================================
+METHOD 2: Using Command Prompt
+========================================
+
+1. Open Command Prompt in this folder:
+   - Hold Shift + Right-click in folder
+   - Select "Open PowerShell window here" or "Open command window here"
+
+2. Type this command:
+   npm run dev
+
+3. Press Enter
+
+4. Wait for "Local: http://localhost:5173" message
+
+5. Open browser to: http://localhost:5173
+
+========================================
+METHOD 3: Using Terminal in VS Code
+========================================
+
+1. Open VS Code
+2. Press Ctrl+` (backtick) to open terminal
+3. Type: npm run dev
+4. Press Enter
+5. Open browser to: http://localhost:5173
+
+========================================
+IMPORTANT NOTES:
+========================================
+
+✓ Port is NOW 5173 (was 3000 before - FIXED!)
+✓ Browser should open automatically
+✓ If you see "Coming soon", press Ctrl+Shift+R to hard refresh
+✓ Make sure .env file exists with Firebase credentials
+
+========================================
+IF .BAT FILE OPENS IN TEXT EDITOR:
+========================================
+
+This happens when .bat files are associated with a text editor.
+
+FIX:
+1. Right-click the .bat file
+2. Select "Open with"
+3. Choose "Command Prompt" or "Windows Command Processor"
+4. Check "Always use this app"
+
+OR just use METHOD 1 or METHOD 2 above instead!
+
+========================================
+TROUBLESHOOTING:
+========================================
+
+Problem: npm command not found
+Fix: Install Node.js from nodejs.org
+
+Problem: Port already in use
+Fix: Close other applications using port 5173
+
+Problem: Page shows "Coming soon"
+Fix: Press Ctrl+Shift+R to hard refresh browser
+
+Problem: Firebase errors
+Fix: Check .env file has correct credentials
+
+========================================
+VERIFICATION:
+========================================
+
+You'll know it's working when you see:
+
+✓ Terminal shows: "Local: http://localhost:5173"
+✓ Browser opens automatically
+✓ Landing page has blue gradient background
+✓ No "Coming soon" messages in modules
+
+========================================
+NEED HELP?
+========================================
+
+Check these files:
+- TROUBLESHOOTING.md
+- README_FINAL.md
+- QUICK_START.md
+
+========================================

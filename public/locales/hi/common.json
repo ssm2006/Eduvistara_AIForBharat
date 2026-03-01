@@ -1,0 +1,77 @@
+{
+  "app": {
+    "name": "एडुविस्तारा",
+    "tagline": "सीखें। अभ्यास करें। उत्कृष्टता प्राप्त करें।"
+  },
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "learning": "सीखना",
+    "interview": "साक्षात्कार",
+    "assessment": "मूल्यांकन",
+    "profile": "प्रोफ़ाइल",
+    "logout": "लॉग आउट"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "displayName": "पूरा नाम",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "resetPassword": "पासवर्ड रीसेट करें",
+    "signInWithGoogle": "Google से साइन इन करें",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "signUpHere": "यहाँ साइन अप करें",
+    "loginHere": "यहाँ लॉगिन करें"
+  },
+  "language": {
+    "selectLanguage": "अपनी भाषा चुनें",
+    "english": "English",
+    "hindi": "हिंदी",
+    "marathi": "मराठी",
+    "continue": "जारी रखें"
+  },
+  "onboarding": {
+    "welcome": "एडुविस्तारा में आपका स्वागत है!",
+    "letsGetStarted": "चलिए शुरू करते हैं",
+    "educationLevel": "शिक्षा स्तर",
+    "careerGoals": "करियर लक्ष्य",
+    "currentSkills": "वर्तमान कौशल",
+    "selectEducation": "अपना शिक्षा स्तर चुनें",
+    "selectCareer": "आप किस करियर में रुचि रखते हैं?",
+    "selectSkills": "आपके पास पहले से कौन से कौशल हैं?",
+    "next": "अगला",
+    "back": "पीछे",
+    "finish": "समाप्त",
+    "skip": "छोड़ें"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है",
+    "yourProgress": "आपकी प्रगति",
+    "continueLearn": "सीखना जारी रखें",
+    "upcomingAssessments": "आगामी मूल्यांकन",
+    "recentActivity": "हाल की गतिविधि",
+    "learningStreak": "सीखने की लकीर",
+    "days": "दिन"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "submit": "जमा करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "sort": "क्रमबद्ध करें",
+    "viewAll": "सभी देखें",
+    "learnMore": "और जानें",
+    "getStarted": "शुरू करें",
+    "tryAgain": "पुनः प्रयास करें"
+  }
+}
