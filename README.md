@@ -2,8 +2,6 @@
 
 EduVistara is a comprehensive educational technology platform designed specifically for Indian students, offering personalized learning experiences, AI-powered interview preparation, and skill assessments in multiple languages.
 
-![EduVistara Banner](https://via.placeholder.com/1200x400/2563eb/ffffff?text=EduVistara+-+Learn.+Practice.+Excel.)
-
 ## ✨ Features
 
 ### 📚 Learning Module
