@@ -118,6 +118,10 @@ npm run build
 
 The production-ready files will be in the `dist` directory.
 
+OR 
+To run it virtually go to: 
+https://main.d3eslsf95fmxji.amplifyapp.com
+
 ## 📱 Project Structure
 
 ```
